@@ -1,3 +1,6 @@
+//I had an issue with pushing the code to github from eclipse
+//that is why I pushed the code late. I'm still working on the
+//issue. Sorry
 package week3;
 
 import java.util.Arrays;
